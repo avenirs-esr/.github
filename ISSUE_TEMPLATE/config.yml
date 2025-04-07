@@ -3,11 +3,3 @@ contact_links:
   - name: Dev channel on ESUP Rocket.Chat
     url: https://rocket.esup-portail.org/group/Avenirs_developpement
     about: For general questions or discussions related to development.
-
-issue_templates:
-  - name: Backend bug report
-    description: Report a bug related to backend services.
-    file: backend-bug.yaml
-  - name: Frontend bug report
-    description: Report a bug related to frontend components.
-    file: frontend-bug.yaml
