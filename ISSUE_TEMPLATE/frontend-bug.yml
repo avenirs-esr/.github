@@ -1,10 +1,10 @@
 #
 # Source: https://github.com/uPortal-Project/uPortal/blob/master/.github/ISSUE_TEMPLATE/1-bug.yml
 
-name: 🐛 Frontend Bug report
+name: Frontend Bug report
 description: Describe a problem
 title: "[Bug][Frontend]: "
-labels: [bug, frontend]
+labels: [bug]
 body:
   - type: textarea
     id: describe-the-bug
