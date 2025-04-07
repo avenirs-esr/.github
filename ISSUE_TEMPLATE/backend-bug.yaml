@@ -3,6 +3,8 @@
 
 name: 🐛 Backend Bug report
 description: Describe a problem
+title: "[Bug][Backend]: "
+labels: [bug, backend]
 
 body:
   - type: textarea
