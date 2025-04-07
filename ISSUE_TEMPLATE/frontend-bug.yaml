@@ -3,7 +3,8 @@
 
 name: 🐛 Frontend Bug report
 description: Describe a problem
-
+title: "[Bug][Frontend]: "
+labels: [bug, frontend]
 body:
   - type: textarea
     id: describe-the-bug
