@@ -68,7 +68,7 @@ body:
         - Chrome
         - Safari
         - Edge
-        - FireFox
+        - Firefox
         - Other (please specify in steps to reproduce)
     validations:
       required: false
