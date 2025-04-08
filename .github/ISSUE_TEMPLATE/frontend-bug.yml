@@ -2,7 +2,7 @@
 # Source: https://github.com/uPortal-Project/uPortal/blob/master/.github/ISSUE_TEMPLATE/1-bug.yml
 
 name: Frontend Bug report
-description: Describe a problem
+description: Describe a problem related to the frontend
 title: "[Bug][Frontend]: "
 labels: [bug]
 body:
