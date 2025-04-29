@@ -4,14 +4,17 @@ Thank you for your contributions to CoFolio.
 
 When you publish the pull request, please check off relevant items below in the description of your pull request.
 
+## CheckList
 Please make sure you include the following:
 
-- [] Brief description of changes applied
-- [] Test cases for all modified changes, where applicable
-- [] The same pull request targeted at the main branch, if applicable
-- [] Any documentation on how to configure, test
-- [] Any possible limitations, side effects, etc
-- [] Reference any other pull requests that might be related
+- [ ] Brief description of changes applied
+- [ ] Reference to an Issue/Feature, Task or User Story, even other Pull Request
+- [ ] Test a11y if it contains frontend change
+- [ ] Test are provided. Including Unit and Integration test applied to backend like frontend.
+- [ ] Any documentation : how to configure or test, provide/complete/modify the technical specification
+- [ ] Add to `CHANGELOG.md` file all properties and database change and detaiils for the update process
+- [ ] Targeting the `master` branch, if applicable
+- [ ] Any possible limitations, side effects, etc.
 
 # Remember
 
