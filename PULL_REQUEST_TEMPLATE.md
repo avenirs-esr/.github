@@ -1,20 +1,63 @@
+🚨 **Reminder:** This template is not meant to be submitted as part of the pull request body.  
+Please use it as a guide, and replace or remove it before creating your PR.
+
+Thanks again for your work! 💪
+
+
 # Read Before Submissions
 
 Thank you for your contributions to CoFolio.
 
 When you publish the pull request, please check off relevant items below in the description of your pull request.
 
-## CheckList
-Please make sure you include the following:
+---
 
-- [ ] Brief description of changes applied
-- [ ] Reference to an Issue/Feature, Task or User Story, even other Pull Request
-- [ ] Test a11y if it contains frontend change
-- [ ] Test are provided. Including Unit and Integration test applied to backend like frontend.
-- [ ] Any documentation : how to configure or test, provide/complete/modify the technical specification
+## 📝 Pull Request Description
+
+### Brief description of changes applied
+> _Describe the changes introduced by this pull request._
+
+---
+
+### Reference to an Issue, Feature, Task, User Story or another PR
+> _Mention related issue numbers or links (e.g. Closes #123, Implements #456)._
+
+---
+
+### Documentation
+> _Detail any updates made to documentation, configuration steps, or technical specs._
+
+---
+
+### Target Branch
+> _Which branch is this PR targeting (e.g. `main`, `develop`)?_
+
+---
+
+### Additional Notes
+> _Include any relevant context, technical details, or reasons behind certain decisions._
+
+---
+
+### Known Limitations or Side Effects
+> _List any limitations, known bugs, or side effects this PR may introduce._
+
+---
+
+## ✅ Checklist
+
+Please make sure you have addressed the following before submitting:
+
+- [ ] a11y tested (if the PR includes frontend changes)
+- [ ] Tests provided (including unit and integration tests for both frontend and backend)
+- [ ] i18n handled (texts are translated)
+- [ ] Performance tests
+- [ ] No unnecessary code (e.g., debug logs, commented code)
+- [ ] Code style and formatting rules respected (linting, conventions, etc.)
+- [ ] Semantic Versioning respected
 - [ ] Add to `CHANGELOG.md` file all properties and database change and detaiils for the update process
-- [ ] Targeting the `master` branch, if applicable
-- [ ] Any possible limitations, side effects, etc.
+
+---
 
 # Remember
 
