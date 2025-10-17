@@ -21,6 +21,7 @@ When you publish the pull request, please check off relevant items below in the 
 
 ### Reference to an Issue, Feature, Task, User Story or another PR
 > _Mention related issue numbers or links (e.g. Closes #123, Implements #456)._
+<!-- Closes https://github.com/avenirs-esr/AVENIRS-Project/issues/### -->
 
 ---
 
