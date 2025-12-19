@@ -15,33 +15,33 @@ When you publish the pull request, please check off relevant items below in the 
 ## 📝 Pull Request Description
 
 ### Brief description of changes applied
-> _Describe the changes introduced by this pull request._
+<!-- Describe the changes introduced by this pull request. -->
 
 ---
 
 ### Reference to an Issue, Feature, Task, User Story or another PR
-> _Mention related issue numbers or links (e.g. Closes #123, Implements #456)._
+<!-- Mention related issue numbers or links (e.g. Closes #123, Implements #456). -->
 <!-- Closes https://github.com/avenirs-esr/AVENIRS-Project/issues/### -->
 
 ---
 
 ### Documentation
-> _Detail any updates made to documentation, configuration steps, or technical specs._
+<!-- Detail any updates made to documentation, configuration steps, or technical specs. -->
 
 ---
 
 ### Target Branch
-> _Which branch is this PR targeting (e.g. `main`, `develop`)?_
+<!-- Which branch is this PR targeting (e.g. `main`, `develop`)? -->
 
 ---
 
 ### Additional Notes
-> _Include any relevant context, technical details, or reasons behind certain decisions._
+<!-- Include any relevant context, technical details, or reasons behind certain decisions. -->
 
 ---
 
 ### Known Limitations or Side Effects
-> _List any limitations, known bugs, or side effects this PR may introduce._
+<!-- List any limitations, known bugs, or side effects this PR may introduce. -->
 
 ---
 
